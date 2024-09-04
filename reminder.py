@@ -1,7 +1,7 @@
 import time 
 from plyer import notification
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     while True:
         notification.notify(
             title = "Time for a power nap!!",
